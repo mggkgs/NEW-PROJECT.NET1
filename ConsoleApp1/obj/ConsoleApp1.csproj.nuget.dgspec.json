@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Desktop\\repo\\NEW-PROJECT.NET1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Owner\\Desktop\\NuGet Package\\NEW-PROJECT.NET\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Desktop\\repo\\NEW-PROJECT.NET1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Owner\\Desktop\\NuGet Package\\NEW-PROJECT.NET\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\repo\\NEW-PROJECT.NET1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\NuGet Package\\NEW-PROJECT.NET\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Owner\\Desktop\\repo\\NEW-PROJECT.NET1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Owner\\Desktop\\NuGet Package\\NEW-PROJECT.NET\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Desktop\\repo\\NEW-PROJECT.NET1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Desktop\\NuGet Package\\NEW-PROJECT.NET\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config"
